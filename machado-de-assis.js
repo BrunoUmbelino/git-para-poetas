@@ -8,3 +8,5 @@ para escrever um novo caso, precisa de apagar o caso escrito.`;
 
 const frase3 = `O dinheiro não traz felicidade 
 — para quem não sabe o que fazer com ele.`;
+
+const frase4 = `Lágrimas não são argumentos.`;
