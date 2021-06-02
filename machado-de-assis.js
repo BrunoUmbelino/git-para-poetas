@@ -10,3 +10,6 @@ const frase3 = `O dinheiro não traz felicidade
 — para quem não sabe o que fazer com ele.`;
 
 const frase4 = `Lágrimas não são argumentos.`;
+
+const frase5 = `Há pessoas que choram por saber que as rosas têm espinho. 
+Há outras que sorriem por saber que os espinhos têm rosas!`;
